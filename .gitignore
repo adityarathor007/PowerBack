@@ -1,0 +1,27 @@
+powerback-frontend/node_modules/
+powerback-backend/.env
+powerback-backend/app/__pycache__/
+extra
+# Logs
+powerback-frontend/logs
+powerback-frontend/*.log
+powerback-frontend/npm-debug.log*
+powerback-frontend/yarn-debug.log*
+powerback-frontend/yarn-error.log*
+powerback-frontend/pnpm-debug.log*
+powerback-frontend/lerna-debug.log*
+
+powerback-frontend/node_modules
+powerback-frontend/dist
+powerback-frontend/dist-ssr
+powerback-frontend/*.local
+
+powerback-frontend/.vscode/*
+powerback-frontend/!.vscode/extensions.json
+powerback-frontend/.idea
+powerback-frontend/.DS_Store
+powerback-frontend/*.suo
+powerback-frontend/*.ntvs*
+powerback-frontend/*.njsproj
+powerback-frontend/*.sln
+powerback-frontend/*.sw?
